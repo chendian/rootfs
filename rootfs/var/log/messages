@@ -1,0 +1,28 @@
+Jan  1 00:00:17 OMAP3EVM syslog.info syslogd started: BusyBox v1.13.3
+Jan  1 00:00:32 OMAP3EVM daemon.info init: starting pid 553, tty '/dev/console': '-/bin/ash'
+Jan  1 00:00:22 OMAP3EVM syslog.info syslogd started: BusyBox v1.13.3
+Jan  1 00:00:24 OMAP3EVM daemon.info init: starting pid 553, tty '/dev/console': '-/bin/ash'
+Jan  1 00:00:20 chendian syslog.info syslogd started: BusyBox v1.13.3
+Jan  1 00:00:23 chendian daemon.info init: starting pid 553, tty '/dev/console': '-/bin/ash'
+Jan  1 00:00:17 chendian syslog.info syslogd started: BusyBox v1.13.3
+Jan  1 00:00:21 chendian daemon.info init: starting pid 553, tty '/dev/console': '-/bin/ash'
+Jan  1 00:00:17 chendian syslog.info syslogd started: BusyBox v1.13.3
+Jan  1 00:01:09 chendian daemon.info init: starting pid 553, tty '/dev/console': '-/bin/ash'
+Jan  1 00:00:24 chendian syslog.info syslogd started: BusyBox v1.13.3
+Jan  1 00:00:26 chendian daemon.info init: starting pid 553, tty '/dev/console': '-/bin/ash'
+Jan  1 00:00:15 chendian syslog.info syslogd started: BusyBox v1.13.3
+Jan  1 00:00:16 chendian daemon.info init: starting pid 553, tty '/dev/console': '-/bin/ash'
+Jan  1 00:00:16 chendian syslog.info syslogd started: BusyBox v1.13.3
+Jan  1 00:00:20 chendian daemon.info init: starting pid 553, tty '/dev/console': '-/bin/ash'
+Jan  1 00:00:36 chendian daemon.info init: starting pid 557, tty '': '/bin/umount -a -r'
+Jan  1 00:00:36 chendian daemon.info init: starting pid 558, tty '': '/sbin/swapoff -a'
+Jan  1 00:00:36 chendian daemon.info init: The system is going down NOW!
+Jan  1 00:00:36 chendian syslog.info syslogd exiting
+Jan  1 00:00:30 chendian syslog.info syslogd started: BusyBox v1.13.3
+Jan  1 00:00:44 chendian daemon.info init: starting pid 553, tty '/dev/console': '-/bin/ash'
+Jan  1 00:01:43 chendian daemon.info init: starting pid 556, tty '': '/bin/umount -a -r'
+Jan  1 00:01:43 chendian daemon.info init: starting pid 557, tty '': '/sbin/swapoff -a'
+Jan  1 00:01:43 chendian daemon.info init: The system is going down NOW!
+Jan  1 00:01:43 chendian syslog.info syslogd exiting
+Jan  1 00:00:18 chendian syslog.info syslogd started: BusyBox v1.13.3
+Jan  1 00:00:28 chendian daemon.info init: starting pid 553, tty '/dev/console': '-/bin/ash'
