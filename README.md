@@ -46,3 +46,6 @@ ip=<client-ip>:<server-ip>:<gw-ip>:<netmask>:<hostname>:<device>:<autoconf>
 ~~~
 此处ip第一个是板子的ip，第二个是服务器ip也就是你的电脑的ip,第三个是网关地址，一般是192.168.x.1或192.168.xx.254,不是广播地址。autoconf定义了获取初始IP参数的协议。比如BOOTP或者DHCP协议。如果不需要自动设置，可以设置为off。
 
+##Logo
+- sudo apt-get install figlet
+- figlet 'Hello world' > logo
