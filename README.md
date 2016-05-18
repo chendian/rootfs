@@ -36,7 +36,7 @@ cp /opt/FriendlyARM/toolschain/4.4.3/arm-none-linux-gnueabi/lib/ld-linux.so.3 bu
 - 进入u-boot，设置启动参数：
 ~~~
 setenv bootargs 'console=ttyS0,115200 root=/dev/nfs rw nfsroot=192.168.1.102:\
-/home/chendian/make_rootf/rootfs ip=192.168.1.10:192.168.1.102:192.168.1.1:255.255.255.0\
+/home/chendian/rootf_make/rootfs ip=192.168.1.10:192.168.1.102:192.168.1.1:255.255.255.0\
 ::eth0:off init=/linuxrc noinitrd '
 saveenv
 ~~~
