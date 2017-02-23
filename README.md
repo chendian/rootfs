@@ -11,7 +11,7 @@
 # /etc/default/tftpd-hpa
 
 TFTP_USERNAME="tftp"
-TFTP_DIRECTORY="/home/qianfan/tftpboot"
+TFTP_DIRECTORY="/home/chendian/tftpboot"
 TFTP_ADDRESS="[::]:69"
 TFTP_OPTIONS="-l -c -s"
 ~~~
